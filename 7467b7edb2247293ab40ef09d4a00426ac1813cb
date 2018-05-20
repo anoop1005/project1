@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cd56c7bb_c4e1ab35",
+        "filename": "index.htm",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1010024
+      },
+      "writtenOn": "2018-05-20T16:07:00Z",
+      "side": 1,
+      "message": "It should be feature3",
+      "range": {
+        "startLine": 6,
+        "startChar": 1,
+        "endLine": 6,
+        "endChar": 5
+      },
+      "revId": "7467b7edb2247293ab40ef09d4a00426ac1813cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
